@@ -3,10 +3,6 @@
 $n=1000;
 echo 'kolichestvo natyralnyh chisel= ',$n,'<br/>';
 echo 'sootvetstvuet ysluviy: ','<br/>';
-
-
-
-
 for ($i = 1; $i <=1000 ; $i++) 
 	{
 		$sum = 0;
@@ -21,8 +17,7 @@ for ($i = 1; $i <=1000 ; $i++)
       				$nat=$b;
       				echo ' ',$i;
       				
-				}
-			
+				}			
 	}
 	
 ?>
